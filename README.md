@@ -11,11 +11,14 @@
 - Features:
 - U﻿se cases(optional):
 - Similiar Existing Software(optional):
-- UI Prototypes/Wireframes(optinal):
+- UI Prototypes/Wireframes(optional):
 - contact info(maybe if you'd like to work together):
 ## My current projects
 ### MYXIOS
 A modern, fetch based, axios inspired light-weight javascript request library with 0 dependencies    
+```js
+npm i myxios
+```
 https://github.com/S2thend/myxios/blob/main/CONTRIBUTING.md
 
 <!---

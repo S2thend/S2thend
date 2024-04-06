@@ -12,6 +12,7 @@
 - U﻿se cases(optional):
 - Similiar Existing Software(optional):
 - UI Prototypes/Wireframes(optinal):
+- contact info(maybe if you'd like to work together):
 ## My current projects
 ### MYXIOS
 A modern, fetch based, axios inspired light-weight javascript request library with 0 dependencies    

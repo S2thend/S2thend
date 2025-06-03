@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S2thend
 - 👀 I’m interested in c, cpp, python, javascript, haskell
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to build full functional personal AI apps.
 - 💞️ I’m looking to collaborate on interesting projects that bring convinience to many many users and are frustration free to use.
 - 📫 How to reach me: Please open issue under this repo (or any repo under this account)
 
@@ -14,7 +14,19 @@
 - Similiar Existing Software(optional):
 - UI Prototypes/Wireframes(optional):
 - Contact Info(optional):
-## My current projects
+## My recent projects
+### Lite mcp sdk for javascript
+REAL COPY AND PASTE experince for you to get started with MCP 
+[Doc](https://github.com/S2thend/Lite_MCP_sdk/blob/main/README.md)
+```sh
+npm install litemcpjs
+```
+### Express Http Client
+A light-weight javascript http request library built in conscious of middleware design pattern. (requires fetch api)
+This project aims to reduce user mental effort and give user more control over the request process by provide only minimal features.
+```sh
+npm install express-http-client
+```
 ### MYXIOS
 A modern, fetch based, axios inspired light-weight javascript request library with 0 dependencies    
 ```sh

@@ -14,32 +14,6 @@
   - Similiar Existing Software(optional):
   - UI Prototypes/Wireframes(optional):
   - Contact Info(optional):
-## My recent projects
-### [Lite mcp sdk for javascript](https://github.com/S2thend/Lite_MCP_sdk/blob/main/README.md)
-REAL COPY AND PASTE experince for you to get started with MCP 
-```sh
-npm install litemcpjs
-```
-
-### [Express Http Client](https://github.com/S2thend/express-http-client/blob/main/README.md)
-A light-weight javascript http request library built in conscious of middleware design pattern. (requires fetch api)
-This project aims to reduce user mental effort and give user more control over the request process by provide only minimal features.
-```sh
-npm install express-http-client
-```
-
-### [MYXIOS](https://github.com/S2thend/myxios/blob/main/CONTRIBUTING.md)
-A modern, fetch based, axios inspired light-weight javascript request library with 0 dependencies    
-```sh
-npm i myxios
-```
-
-### [BoostedBuidlingProcessForADG](https://github.com/S2thend/BoostedBuidlingProcessForADG/blob/main/CONTRIBUTING.md)
-Implementation of A novel machine learning method for my researches in this field.
-This method is only for binary classification tasks up until current version.
-```sh
-pip install bbp4adg
-```
 
 <!---
 S2thend/S2thend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

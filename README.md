@@ -1,60 +1,58 @@
-<h1 align="center">Hi 👋, I'm S2thend</h1>
-<h3 align="center">Builder | Algorithm Explorer | Open Source Hacker</h3>
-
 <p align="center">
-  <a href="https://github.com/S2thend">
-    <img src="https://komarev.com/ghpvc/?username=S2thend&label=views&color=0e75b6&style=flat" />
-  </a>
+<pre>
+███████╗██████╗ ████████╗██╗  ██╗███████╗███╗   ██╗██████╗ 
+██╔════╝╚════██╗╚══██╔══╝██║  ██║██╔════╝████╗  ██║██╔══██╗
+███████╗ █████╔╝   ██║   ███████║█████╗  ██╔██╗ ██║██║  ██║
+╚════██║██╔═══╝    ██║   ██╔══██║██╔══╝  ██║╚██╗██║██║  ██║
+███████║███████╗   ██║   ██║  ██║███████╗██║ ╚████║██████╔╝
+╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
+</pre>
 </p>
 
----
 
-## 🧠 Collaboration
+
+<p align="center">
+⚡ Builder · 🧠 Algorithms · 🌌 Diffusion · 🛠️ Open Source
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=S2thend&label=views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <a href="https://github.com/S2thend/S2thend/issues/new?assignees=S2thend&labels=&projects=&template=new-project-ideas.md&title=Project%20Idea">
-    <img src="https://img.shields.io/badge/New%20Project%20Idea%20%7C%20Contact%20Me-GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/💡%20New%20Project%20Idea%20%7C%20📬%20Contact%20Me-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Statistics
+<br/>
 
 <table align="center">
   <tr>
-    <!-- Contributions Graph -->
     <td colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S2thend&theme=github_dark" />
     </td>
   </tr>
   <tr>
-    <!-- Stats -->
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=S2thend&show_icons=true&theme=tokyonight" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S2thend&theme=github_dark" />
     </td>
-    <!-- Language Used -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2thend&layout=compact&theme=tokyonight" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S2thend&theme=github_dark" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Interests
+<p align="center">
+😈 Build things that don't suck  
+⚡ Ship fast  
+🚀 Break limits  
+</p>
 
-- Algorithms & Data Structures  
-- Machine Learning / Diffusion Models  
-- Backend Systems  
-- Developer Tools  
-- Open Source Infrastructure  
+<br/>
 
----
-## 🚀 About Me
-
-I build things that shouldn't suck. Algorithms. Diffusion. Open an issue if you want to create something awesome ⚡😈
-
----
-⭐ If you like my work, consider giving a star to my repositories!
-⭐ Star what you like. Fork what you love. Build what you believe in.
+<p align="center">
+⭐ Star · 🍴 Fork · 🧠 Learn · 🛠️ Build
+</p>

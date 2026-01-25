@@ -38,10 +38,11 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S2thend&theme=github_dark" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S2thend&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S2thend&theme=github_dark" />
     </td>
   </tr>
 </table>
+
 
 <br/>
 

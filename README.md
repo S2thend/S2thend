@@ -30,15 +30,15 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S2thend&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S2thend&theme=panda" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S2thend&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S2thend&theme=panda" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S2thend&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S2thend&theme=panda" />
     </td>
   </tr>
 </table>
